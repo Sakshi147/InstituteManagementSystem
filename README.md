@@ -1,2 +1,2 @@
-# Djnago_InstituteManagementSystem
+InstituteManagementSystem
 
